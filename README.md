@@ -133,7 +133,7 @@ Lists each date and the total AED amount collected from ticket sales.
 This screenshot demonstrates how the system handles incorrect login attempts with an error message.
 
 
+Summary of learning
 
-
-
+In this project, we learned how to take a real scenario and turn it into a working system. We created a UML class diagram to plan the relationships between attendees, tickets, workshops, and exhibitions. Then we implemented the whole system using Python, tkinter for the GUI, and Pickle to save and load all the data. We learned how to organize our code into separate files, connect the GUI buttons to the system actions, and handle things like buying tickets, booking workshops, checking profiles, and using the admin features. We also tested every screen to make sure the system works correctly and shows proper error messages. Overall, this project helped us understand how to design, build, and test a full application from start to finish.
 
